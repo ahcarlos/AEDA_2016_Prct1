@@ -1,4 +1,4 @@
-<h1> AEDA_2016_Prct1</h1>
+<h1> AEDA: Práctica 1. Estructuras de datos esenciales.</h1>
 <h3> Realizado por: Carlos de Armas Hernández </h3>
 <h4> e-mail: alu0100816167@ull.edu.es </h4>
 <br>
